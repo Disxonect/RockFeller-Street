@@ -1,0 +1,4 @@
+<table name="RockfellerStreetMenu">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="Rockfeller_Menu" source="sounds/menu.ogg"/>
+</table>
